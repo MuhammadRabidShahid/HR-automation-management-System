@@ -1,0 +1,51 @@
+id,name,No. of Days Present in this month,start_date,department,city
+1,Ali Khan,22,15/01/2022,Sales,Karachi
+2,Fatima Ahmed,18,22/03/2021,Marketing,Lahore
+3,Bilal Hassan,20,08/11/2020,HR,Islamabad
+4,Ayesha Siddiqui,24,19/07/2019,IT,Rawalpindi
+5,Usman Raza,23,10/02/2023,Finance,Peshawar
+6,Sara Malik,19,11/09/2021,Legal,Quetta
+7,Ahmed Nawaz,21,01/04/2020,R&D,Faisalabad
+8,Sana Iqbal,20,25/12/2019,Sales,Multan
+9,Omar Ali,22,13/06/2022,Marketing,Hyderabad
+10,Zara Noor,25,20/08/2023,HR,Sialkot
+11,Hassan Shah,18,17/02/2021,IT,Gujranwala
+12,Mariam Khan,20,15/09/2022,Finance,Sargodha
+13,Hamza Qureshi,23,21/05/2020,Legal,Bahawalpur
+14,Anam Farooq,24,30/03/2019,R&D,Sukkur
+15,Imran Aziz,21,27/01/2022,Sales,Rahim Yar Khan
+16,Nadia Tariq,19,09/07/2023,Marketing,Mardan
+17,Faisal Mehmood,20,05/11/2021,HR,Abbottabad
+18,Rabia Aslam,21,23/10/2020,IT,Sahiwal
+19,Junaid Sheikh,22,31/05/2022,Finance,Larkana
+20,Amina Rehman,26,15/03/2023,Legal,Gujrat
+21,Kashif Anwar,24,12/08/2019,R&D,Kasur
+22,Mehwish Ali,22,03/01/2021,Sales,Muzaffarabad
+23,Arif Kamal,23,28/11/2022,Marketing,Mirpur
+24,Zainab Babar,25,22/04/2023,HR,Mingora
+25,Salman Riaz,19,14/06/2020,IT,Dera Ghazi Khan
+26,Hira Javed,22,06/10/2021,Finance,Nawabshah
+27,Waqar Hussain,20,09/02/2022,Legal,Jhang
+28,Nimra Saeed,21,29/11/2019,R&D,Okara
+29,Shahid Iqbal,24,20/08/2020,Sales,Sadiqabad
+30,Shazia Farooq,23,30/07/2023,Marketing,Sheikhupura
+31,Tahir Abbas,22,12/03/2021,HR,Jhelum
+32,Farah Nadeem,21,04/09/2020,IT,Khuzdar
+33,Khalid Yousuf,20,18/03/2022,Finance,Pakpattan
+34,Rukhsana Bashir,24,27/05/2023,Legal,Chiniot
+35,Rizwan Tariq,18,10/12/2021,R&D,Tando Adam
+36,Saima Ahmed,19,16/07/2019,Sales,Khushab
+37,Shahzaib Khan,22,21/10/2022,Marketing,Bhakkar
+38,Sumbal Hashmi,23,09/01/2023,HR,Vehari
+39,Zohaib Siddiq,24,03/06/2020,IT,Ghotki
+40,Anila Zafar,21,18/11/2021,Finance,Samundri
+41,Naveed Abbas,19,06/04/2022,Legal,Tando Muhammad Khan
+42,Iqra Mushtaq,25,31/12/2019,R&D,Narowal
+43,Waseem Iqbal,22,25/07/2020,Sales,Kotli
+44,Areeba Shah,23,22/02/2021,Marketing,Shikarpur
+45,Asad Ullah,20,14/12/2022,HR,Hafizabad
+46,Mujtaba Farid,24,07/06/2023,IT,Mianwali
+47,Sumaira Younus,19,29/09/2020,Finance,Shahdadkot
+48,Yasir Shah,21,19/08/2021,Legal,Dera Ismail Khan
+49,Rubina Kausar,20,15/07/2022,R&D,Chaman
+50,Wajid Ali,22,26/03/2023,Sales,Attock
